@@ -173,7 +173,7 @@ const Index = () => {
 
           {/* Farming Tips */}
           <section
-            className="animate-fade-in"
+            className="animate-fade-in mb-6"
             style={{ animationDelay: "0.4s" }}
           >
             <h2 className="font-display font-bold text-xl mb-4">
